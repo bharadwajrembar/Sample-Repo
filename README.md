@@ -1,2 +1,1 @@
-# Sample-Repo
-First one
+Hi i am Bharadwaj
